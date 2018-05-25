@@ -115,6 +115,10 @@
             <feature name="Geocoder">
                 <param name="ios-package" value="Geocoder" />
             </feature>
+            <feature name="PolylineGM">
+                <param name="ios-package" value="Polyline" />
+                <param name="ios-package" value="PolylineGM" />
+            </feature>
         </config-file>
 
         <header-file src="src/ios/GoogleMaps/Circle.h" />
